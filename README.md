@@ -1,1 +1,0 @@
-# java-jersy-mybatis-mysql
